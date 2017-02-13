@@ -1,6 +1,6 @@
 package testing;
 
-public class hellovaasa {
+public class Hellovaasa {
 
 	public static void main(String[] args) {
 		
